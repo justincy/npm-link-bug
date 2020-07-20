@@ -1,6 +1,6 @@
 # npm-link-bug
 
-Minimum reproducible example for an [npm bug](https://github.com/npm/cli/issues/1542).
+Minimal reproducible example for an [npm bug](https://github.com/npm/cli/issues/1542).
 
 The error will print this mesage in the console:
 
