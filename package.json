@@ -1,0 +1,22 @@
+{
+  "name": "npm-link-bug",
+  "version": "1.0.0",
+  "description": "Minimum reproducible example for an npm bug",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justincy/npm-link-bug.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justincy/npm-link-bug/issues"
+  },
+  "homepage": "https://github.com/justincy/npm-link-bug#readme",
+  "dependencies": {
+    "npm-link-bug-dep": "github:justincy/npm-link-bug-dep#semver:^1.0.0"
+  }
+}
